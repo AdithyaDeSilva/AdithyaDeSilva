@@ -28,10 +28,7 @@ exploring EcmaScript with a big interest in Web Scraping.
 Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing)
 to get more info.
  -->
- 
- <img src='SVGs/PinClipart.com_astronaut-helmet-clipart_5340080.png' align='left' width='50%'>
 <br/>
-
 <a href="https://www.linkedin.com/in/adithyaxde/">
        <img align="left" alt="Adithya's LinkedIn" width="24px" src='https://img.icons8.com/ios-filled/344/linkedin.png' />
 </a>
