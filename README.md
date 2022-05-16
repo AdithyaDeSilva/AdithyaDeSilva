@@ -21,12 +21,14 @@ to get more info.
 <br/>
 
 <a href="https://www.linkedin.com/in/adithyaxde/">
-    
+       <img align="left" alt="Adithya's LinkedIn" width="24px" src='./SVGs/linkedin-brands.svg' />
 /a>
 <a href="https://www.instagram.com/adithya.de/">
+       <img align="left" alt="Adithya's Instagram" width="24px" src='./SVGs/instagram-brands.svg' />
 </a>
 <a href="https://www.facebook.com/adithya.shanuka/">
-/a>
+       <img align="left" alt="Adithya's Facebook" width="24px" src='./SVGs/facebook-f-brands.svg' />
+</a>
 <img src="https://komarev.com/ghpvc/?username=AdithyaDeSilva&color=green" align="left" />
 
 
