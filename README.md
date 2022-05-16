@@ -39,8 +39,6 @@ to get more info.
 <br />
 <br />
 <br />
-<br />
-<br />
 
 <p align="left">
     <a href="https://abhigyantrips.dev/">
