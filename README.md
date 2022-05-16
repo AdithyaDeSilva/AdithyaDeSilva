@@ -9,44 +9,29 @@ A **Mechanical Engineering Student** 🚀 from Galle, SriLanka.
 />
 
 ***About Me!***
-- I’m currently working as a TSA at Nixxe Solutions. -  I’m currently
-exploring Python with a big interest in Web Scraping and Data Visualization. -  My
-interests are web-automation, video processing and developing some useful and cool stuff xD
--  I’m pursuing a Bachelor's degree in Computer Science. - 💬 Ask me about anything, I
-love to answer! - 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum
+- I’m currently studying at Univercity of Moratuwa, SriLanka. -  I’m currently
+exploring EcmaScript with a big interest in Web Scraping. -  My
+interests are web-developing and innovating digital products.
+-  I’m pursuing a Bachelor's degree in Mechanical Enginnering. - 💬 Ask me about anything, I
+love to answer! - 📫 Email me at [adithyadesilva00@gmail.com](mailto:adithyadesilva00@gmail.com).
+<!-- - 📝 See my [Curriculum
 Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing)
 to get more info.
-
+ -->
 <br/>
-<a href="https://www.linkedin.com/in/">
-    <img
-        align="left"
-        alt="Zamran's LinkdeIn"
-        width="24px"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-    />
+
+<a href="https://www.linkedin.com/in/adithyaxde/">
+    <i align="left" alt="Adithya's LinkedIn" width="24px class="fa-brands fa-linkedin-f"></i>
 </a>
-<a href="https://www.instagram.com/zamranxd/">
-    <img
-        align="left"
-        alt="Zamran's Instagram"
-        width="24px"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
-    />
+<a href="https://www.instagram.com/adithya.de/">
+      <i align="left" alt="Adithya's Insta" width="24px class="fa-brands fa-instagram-f"></i>
 </a>
-<a href="https://www.facebook.com/ZamranxD">
-    <img
-        align="left"
-        alt="Zamran's Facebook"
-        width="24px"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"
-    />
+<a href="https://www.facebook.com/adithya.shanuka/">
+    <i align="left" alt="Adithya's Facebook" width="24px class="fa-brands fa-facebook-f"></i>
 </a>
-<img src="https://komarev.com/ghpvc/?username=AdithyDeSilva&color=darkgray" align="left" />
+<img src="https://komarev.com/ghpvc/?username=AdithyaDeSilva&color=green" align="left" />
 
 
-<br />
 <br />
 <br />
 <br />
@@ -55,10 +40,12 @@ to get more info.
 <p align="left">
     <a href="https://abhigyantrips.dev/">
         <img
+             align='left'
             width="49.5%"
             src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true"
         />
         <img
+             align='right'
             width="49.5%"
             src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaDeSilva&theme=gruvbox&hide_border=true"
         />
