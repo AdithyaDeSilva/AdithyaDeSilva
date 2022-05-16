@@ -22,7 +22,7 @@ to get more info.
 
 <a href="https://www.linkedin.com/in/adithyaxde/">
        <img align="left" alt="Adithya's LinkedIn" width="24px" src='https://img.icons8.com/ios-filled/344/linkedin.png' />
-/a>
+</a>
 <a href="https://www.instagram.com/adithya.de/">
        <img align="left" alt="Adithya's Instagram" width="24px" src='https://img.icons8.com/ios/344/instagram-new--v1.png' />
 </a>
