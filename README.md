@@ -126,6 +126,8 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
         height="40"
     />
 </p>
+
+<br/>
 <p>
 	<img
 		align="left"
@@ -135,12 +137,11 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 </p>
 
 
-
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true" />
-	  <br />
+	  <br/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaDeSilva&theme=gruvbox&hide_border=true" />
   </a>
 </p>
