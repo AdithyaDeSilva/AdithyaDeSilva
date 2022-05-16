@@ -21,14 +21,15 @@ to get more info.
 <br/>
 
 <a href="https://www.linkedin.com/in/adithyaxde/">
-       <img align="left" alt="Adithya's LinkedIn" width="24px" src='./SVGs/linkedin-brands.svg' />
+       <img align="left" alt="Adithya's LinkedIn" width="24px" src='https://img.icons8.com/ios-filled/344/linkedin.png' />
 /a>
 <a href="https://www.instagram.com/adithya.de/">
-       <img align="left" alt="Adithya's Instagram" width="24px" src='./SVGs/instagram-brands.svg' />
+       <img align="left" alt="Adithya's Instagram" width="24px" src='https://img.icons8.com/ios/344/instagram-new--v1.png' />
 </a>
 <a href="https://www.facebook.com/adithya.shanuka/">
-       <img align="left" alt="Adithya's Facebook" width="24px" src='./SVGs/facebook-f-brands.svg' />
+       <img align="left" alt="Adithya's Facebook" width="24px" src='https://img.icons8.com/ios-filled/344/facebook--v1.png' />
 </a>
+    
 <img src="https://komarev.com/ghpvc/?username=AdithyaDeSilva&color=green" align="left" />
 
 
