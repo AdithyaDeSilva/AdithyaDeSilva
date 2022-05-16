@@ -1,15 +1,23 @@
 <h1 title="hehehe">Hey 👋</h1>
 
-A **Mechanical Engineering Student** 🚀 from Galle, SriLanka.
+A **Mechanical Engineering Student** from Galle, SriLanka.
 
-<img
-    align="right"
-    alt="GIF"
-    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-/>
+<p align="right">
+    <a href="https://abhigyantrips.dev/">
+        <img
+            width="49%"
+            src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true"
+        />
+        <img
+           width="49%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaDeSilva&theme=gruvbox&hide_border=true"
+        />
+    </a>
+</p>
+
 
 ***About Me!***
-- I’m currently studying at Univercity of Moratuwa, SriLanka. 
+- I’m currently studying at University of Moratuwa, SriLanka. 
 - I’m currently
 exploring EcmaScript with a big interest in Web Scraping. 
 - My interests are web-developing and innovating digital products.
@@ -33,22 +41,3 @@ to get more info.
 </a>
     
 <img src="https://komarev.com/ghpvc/?username=AdithyaDeSilva&color=green" align="left" />
-
-
-<br />
-<br />
-<br />
-<br />
-
-<p align="left">
-    <a href="https://abhigyantrips.dev/">
-        <img
-            width="49%"
-            src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true"
-        />
-        <img
-           width="49%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaDeSilva&theme=gruvbox&hide_border=true"
-        />
-    </a>
-</p>
