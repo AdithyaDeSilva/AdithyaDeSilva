@@ -1,6 +1,6 @@
 <h1 title="hehehe">Hey 👋</h1>
 
-A **Mechanical Engineering Student** from Galle, SriLanka.
+I'm a **Mechanical Engineering Student** from Galle, SriLanka.
 
 <p>
     <a href="https://abhigyantrips.dev/">
@@ -33,7 +33,7 @@ to get more info.
        <img align="left" alt="Adithya's LinkedIn" width="24px" src='https://img.icons8.com/ios-filled/344/linkedin.png' />
 </a>
 <a href="https://www.instagram.com/adithya.de/">
-       <img align="left" alt="Adithya's Instagram" width="24px" src='https://img.icons8.com/ios/344/instagram-new--v1.png' />
+       <img align="left" alt="Adithya's Instagram" width="24px" src='https://img.icons8.com/glyph-neue/344/instagram-new.png' />
 </a>
 <a href="https://www.facebook.com/adithya.shanuka/">
        <img align="left" alt="Adithya's Facebook" width="24px" src='https://img.icons8.com/ios-filled/344/facebook--v1.png' />
