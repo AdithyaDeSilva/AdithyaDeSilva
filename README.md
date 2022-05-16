@@ -21,17 +21,18 @@ to get more info.
 <br/>
 
 <a href="https://www.linkedin.com/in/adithyaxde/">
-    <i align="left" alt="Adithya's LinkedIn" width="24px class="fa-brands fa-linkedin-f"></i>
+    <i align="left" alt="Adithya's LinkedIn" width="24px" class="fa-brands fa-linkedin-f"></i>
+    <img align="left" alt="Adithya's LinkedIn" width="24px" src='https://cdn-icons-png.flaticon.com/512/1051/1051309.png' />
 </a>
 <a href="https://www.instagram.com/adithya.de/">
-      <i align="left" alt="Adithya's Insta" width="24px class="fa-brands fa-instagram-f"></i>
 </a>
 <a href="https://www.facebook.com/adithya.shanuka/">
-    <i align="left" alt="Adithya's Facebook" width="24px class="fa-brands fa-facebook-f"></i>
-</a>
+/a>
 <img src="https://komarev.com/ghpvc/?username=AdithyaDeSilva&color=green" align="left" />
 
 
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -40,10 +41,12 @@ to get more info.
 <p align="left">
     <a href="https://abhigyantrips.dev/">
         <img
+             align='left'
             width="49.5%"
             src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true"
         />
         <img
+             align='right'
             width="49.5%"
             src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaDeSilva&theme=gruvbox&hide_border=true"
         />
