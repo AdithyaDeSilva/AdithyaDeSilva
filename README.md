@@ -9,11 +9,13 @@ A **Mechanical Engineering Student** 🚀 from Galle, SriLanka.
 />
 
 ***About Me!***
-- I’m currently studying at Univercity of Moratuwa, SriLanka. -  I’m currently
-exploring EcmaScript with a big interest in Web Scraping. -  My
-interests are web-developing and innovating digital products.
--  I’m pursuing a Bachelor's degree in Mechanical Enginnering. - 💬 Ask me about anything, I
-love to answer! - 📫 Email me at [adithyadesilva00@gmail.com](mailto:adithyadesilva00@gmail.com).
+- I’m currently studying at Univercity of Moratuwa, SriLanka. 
+- I’m currently
+exploring EcmaScript with a big interest in Web Scraping. 
+- My interests are web-developing and innovating digital products.
+- I’m pursuing a Bachelor's degree in Mechanical Enginnering. 
+- Ask me about anything, I would love to answer! 
+- Email me at [adithyadesilva00@gmail.com](mailto:adithyadesilva00@gmail.com) 📫 .
 <!-- - 📝 See my [Curriculum
 Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing)
 to get more info.
