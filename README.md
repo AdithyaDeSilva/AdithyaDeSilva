@@ -2,7 +2,7 @@
 
 A **Mechanical Engineering Student** from Galle, SriLanka.
 
-<p align="right">
+<p align="right" width='40%'>
     <a href="https://abhigyantrips.dev/">
         <img
             src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true"
