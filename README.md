@@ -21,8 +21,7 @@ to get more info.
 <br/>
 
 <a href="https://www.linkedin.com/in/adithyaxde/">
-    <i align="left" alt="Adithya's LinkedIn" width="24px" class="fa-brands fa-linkedin-f"></i>
-    <img align="left" alt="Adithya's LinkedIn" width="24px" src='https://cdn-icons-png.flaticon.com/512/1051/1051309.png' />
+    <img align="left" alt="Adithya's LinkedIn" width="24px" src='./SVGs/facebook-f-brands.svg' />
 </a>
 <a href="https://www.instagram.com/adithya.de/">
 </a>
