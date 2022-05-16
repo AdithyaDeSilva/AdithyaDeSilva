@@ -52,12 +52,12 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-	<img
-		src="https://img.icons8.com/color/344/html-5--v1.png"
-		alt="HTML5"
-		width="40"
-		height="40"
-	/>
+    <img
+        src="https://img.icons8.com/color/344/html-5--v1.png"
+        alt="HTML5"
+        width="40"
+        height="40"
+    />
     <img
         src="https://img.icons8.com/color/344/css3.png"
         alt="css3"
@@ -70,18 +70,61 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
         width="40"
         height="40"
     />
-	<img
-		src="https://img.icons8.com/color/344/bootstrap.png"
-		alt="bootstrap"
-		width="40"
-		height="40"
-	/>
-	<img
-		src="https://img.icons8.com/color/344/react-native.png"
-		alt="react"
-		width="40"
-		height="40"
-	/>
+    <img
+        src="https://img.icons8.com/color/344/bootstrap.png"
+        alt="bootstrap"
+        width="40"
+        height="40"
+    />
+    <img
+        src="https://img.icons8.com/color/344/javascript--v1.png"
+        alt="bootstrap"
+        width="40"
+        height="40"
+    />
+    <img
+        src="https://img.icons8.com/color/344/react-native.png"
+        alt="react"
+        width="40"
+        height="40"
+    />
+    <img
+        src="https://img.icons8.com/color/344/angularjs.png"
+        alt="angularjs"
+        width="40"
+        height="40"
+    />
+    <img
+        src="https://img.icons8.com/color/344/nodejs.png"
+        alt="nodejs"
+        width="40"
+        height="40"
+    />
+    <img
+        src="https://img.icons8.com/color/344/npm.png"
+        alt="npm"
+        width="40"
+        height="40"
+    />
+    <img src="https://img.icons8.com/color/344/git.png" alt="GIT" width="40" height="40" />
+    <img
+        src="https://img.icons8.com/color/344/visual-studio-code-2019.png"
+        alt="VSCODE"
+        width="40"
+        height="40"
+    />
+    <img
+        src="https://img.icons8.com/color/344/intellij-idea.png"
+        alt="IntelliJ"
+        width="40"
+        height="40"
+    />
+    <img
+        src="https://img.icons8.com/color/344/pycharm.png"
+        alt="PYCHARM"
+        width="40"
+        height="40"
+    />
 </p>
 <p>
 	<img
@@ -90,7 +133,6 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 		alt="akhilgkrishnan"
 	/>
 </p>
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
