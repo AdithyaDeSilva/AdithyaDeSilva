@@ -21,8 +21,8 @@ to get more info.
 <br/>
 
 <a href="https://www.linkedin.com/in/adithyaxde/">
-    <img align="left" alt="Adithya's LinkedIn" width="24px" src='./SVGs/facebook-f-brands.svg' />
-</a>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></svg>
+/a>
 <a href="https://www.instagram.com/adithya.de/">
 </a>
 <a href="https://www.facebook.com/adithya.shanuka/">
@@ -41,12 +41,12 @@ to get more info.
     <a href="https://abhigyantrips.dev/">
         <img
              align='left'
-            width="49.5%"
+            width="49%"
             src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true"
         />
         <img
              align='right'
-            width="49.5%"
+            width="49%"
             src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaDeSilva&theme=gruvbox&hide_border=true"
         />
     </a>
