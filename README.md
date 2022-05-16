@@ -28,6 +28,8 @@ exploring EcmaScript with a big interest in Web Scraping.
 Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing)
 to get more info.
  -->
+ 
+ <img src='https://www.pinclipart.com/picdir/middle/534-5340080_space-man-png-transparent-astronaut-cartoon-png-clipart.png' align='left'/>
 <br/>
 
 <a href="https://www.linkedin.com/in/adithyaxde/">
