@@ -138,9 +138,8 @@ to get more info. ### Blogs posts
 
 <br />
 <p align="left">
-    <a href="https://abhigyantrips.dev/" style="display:flex;">
+    <a href="https://abhigyantrips.dev/">
         <img
-            
             width="49.5%"
             src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true"
         />
