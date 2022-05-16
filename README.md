@@ -40,12 +40,10 @@ to get more info.
 <p align="left">
     <a href="https://abhigyantrips.dev/">
         <img
-             align='left'
             width="49.5%"
             src="https://github-readme-stats.vercel.app/api?username=AdithyaDeSilva&show_icons=true&theme=gruvbox&hide_border=true"
         />
         <img
-             align='right'
             width="49.5%"
             src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaDeSilva&theme=gruvbox&hide_border=true"
         />
