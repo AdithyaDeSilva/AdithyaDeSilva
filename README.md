@@ -36,7 +36,7 @@ A **Mechanical Engineering Student** 🚀 from Galle, SriLanka.
     src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
 />
 
-***About Me!**
+***About Me!***
 - I’m currently working as a TSA at Nixxe Solutions. -  I’m currently
 exploring Python with a big interest in Web Scraping and Data Visualization. -  My
 interests are web-automation, video processing and developing some useful and cool stuff xD
@@ -46,6 +46,10 @@ love to answer! - 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.
 Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing)
 to get more info.
 
+<br />
+<br />
+<br /><br /><br />
+<br /><br />
 <br />
 <p align="left">
     <a href="https://abhigyantrips.dev/">
