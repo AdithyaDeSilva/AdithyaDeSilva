@@ -29,7 +29,7 @@ Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?us
 to get more info.
  -->
  
- <img src='https://www.pinclipart.com/picdir/middle/534-5340080_space-man-png-transparent-astronaut-cartoon-png-clipart.png' align='left'/>
+ <img src='SVGs/PinClipart.com_astronaut-helmet-clipart_5340080.png' align='left'/ width='50%'>
 <br/>
 
 <a href="https://www.linkedin.com/in/adithyaxde/">
