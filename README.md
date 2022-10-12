@@ -1,6 +1,6 @@
 <h1 title="hehehe">Hey 👋</h1>
 
-I'm a **Mechanical Engineering Student** from Galle, SriLanka.
+I'm a **Mechanical Engineering Student.
 
 <p>
     <a href="https://abhigyantrips.dev/">
