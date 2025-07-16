@@ -19,10 +19,9 @@ I'm a **Mechanical Engineering Student.
 ***About Me!***
 - I’m currently studying at University of Moratuwa, SriLanka. 
 - I’m currently
-exploring EcmaScript with a big interest in Web Scraping. 
+exploring EcmaScript with a big interest in Web Dev. 
 - My interests are web-developing and innovating digital products.
 - I’m pursuing a Bachelor's degree in Mechanical Enginnering. 
-- Ask me about anything, I would love to answer! 
 - Email me at [adithyadesilva00@gmail.com](mailto:adithyadesilva00@gmail.com) 📫 .
 <!-- - 📝 See my [Curriculum
 Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing)
